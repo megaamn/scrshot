@@ -1,0 +1,14 @@
+ГЕНЕРАЦИЯ STFT-СПЕКТРОГРАММ
+Дата: 2026-06-09 09:04:12.004714
+========================================
+Параметры:
+  WINDOW_SIZE: 256
+  NPERSEG:     32
+  NOVERLAP:    24
+  THRESHOLD:   0.05
+  IMG_SIZE:    224x224
+
+Результаты:
+  Train  — Normal: 0, Attack: 599, Итого: 599
+  Val    — Normal: 0, Attack: 85, Итого: 85
+  Test   — Normal: 141, Attack: 180, Итого: 321
